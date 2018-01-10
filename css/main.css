@@ -1,0 +1,47 @@
+/*
+Yellow: FFE828
+GreyYellow:E8D49B
+Orange: FFB959
+GreyRed: E8B397
+*/
+
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Neuton', serif;
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Neuton');
+
+body{
+    margin: 0 auto;
+    background-color: #E8D49B;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: Neuton, Courier, 'Courier New',serif;
+}
+.row{
+    text-align:center;
+    align-content: center;
+    margin: 0 auto;
+}
+.container{
+    align-content:center;
+}
+.grid{
+    border:3px solid black;
+    padding:10px;
+    background-color:#FFB959;
+} 
+.homeCard{
+    background-color:#E8B397;
+    margin:10px;
+}
+.current{
+    text-decoration-color:#E8D49B;
+}
+.signUp{
+    border:dotted 2px black;
+    background-color:#FFE828;
+}
