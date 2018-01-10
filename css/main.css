@@ -18,8 +18,11 @@ body{
     background-color: #E8D49B;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
-h2{
+h2,h3,h5{
     font-family: Neuton, Courier, 'Courier New',serif;
+}
+img:hover{
+    border:solid 2px #FFB959;
 }
 .row{
     text-align:center;
